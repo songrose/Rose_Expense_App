@@ -1,0 +1,23 @@
+{
+  "name": "rose_expense_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songrose/Rose_Expense_App.git"
+  },
+  "author": "Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songrose/Rose_Expense_App/issues"
+  },
+  "homepage": "https://github.com/songrose/Rose_Expense_App#readme",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "express": "^4.17.1"
+  }
+}
