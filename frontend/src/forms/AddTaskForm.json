@@ -1,0 +1,48 @@
+[
+  {
+    "taskName": {
+      "textFieldProps": {
+        "id": "task_name",
+        "placeholder": "Task Name:",
+        "type": "text"
+      },
+      "labelText": "Task Name",
+      "icon": "assignment",
+      "classNames": ["s6", "active"]
+    }
+  },
+  {
+    "cost": {
+      "textFieldProps": {
+        "id": "cost",
+        "placeholder": "your@email.com",
+        "type": "number",
+        "step": ".01",
+        "min": "0"
+      },
+      "labelText": "$",
+      "icon": "payment",
+      "helperTextText": "Enter your expense price",
+      "classNames": ["s12"]
+    }
+  },
+  {
+    "categories": {
+      "textFieldProps": {
+        "id": "categories",
+        "placeholder": "Categories",
+        "type": "text"
+      },
+      "labelText": "Item Category",
+      "icon": "category",
+      "classNames": ["s12"]
+    }
+  },
+  {
+    "submit": {
+      "icon": "send",
+      "iconRight": true,
+      "text": "Submit"
+    }
+  }
+]

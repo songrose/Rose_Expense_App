@@ -1,0 +1,60 @@
+.inputContainer {
+  display: flex;
+  background-color: rgba(230, 230, 230);
+  flex-direction: column;
+  width: 820px;
+  border-radius: 10px;
+  height: 500px;
+  border: 1px solid rgba(200, 200, 200);
+  justify-content: space-evenly;
+  align-items: center;
+}
+.expenseFormItem {
+  display: flex;
+  background-color: rgba(200, 200, 200);
+  width: 750px;
+  border-radius: 10px;
+  justify-content: space-between;
+  padding: 15px;
+  margin-top: 10px;
+}
+.labelTextBox {
+  width: 400px;
+
+  vertical-align: middle;
+  padding-top: 12px;
+  font-size: 21px;
+}
+.iconsize {
+  width: 100px;
+}
+.BGChangeWhite {
+  background-color: white;
+}
+.error {
+  color: red;
+  width: 140px;
+  display: flex;
+  margin-right: 5px;
+  justify-content: flex-end;
+}
+.expenseForm {
+}
+.buttonColor {
+  background-color: #26a69a;
+  color: #fffd;
+  font-size: 30px;
+}
+.MuiButton {
+  color: white;
+}
+.buttonContainer {
+  width: 780px;
+  display: flex;
+  justify-content: flex-end;
+}
+.addExpenseHeadingContainer {
+  display: flex;
+  width: 790px;
+  align-items: flex-start;
+}

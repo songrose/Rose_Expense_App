@@ -1,0 +1,8 @@
+.wholeWidthContainer {
+  width: 100%;
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 100px;
+}

@@ -1,0 +1,12 @@
+.historyContainer {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+}
+.historyHeading {
+  display: flex;
+  width: 800px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
