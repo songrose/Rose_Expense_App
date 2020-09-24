@@ -91,4 +91,5 @@ DB_NAME=expensesDB
 
 Project should start in localhost:3000
 
-If time is limited, here is the demo of the project 
+
+To quickly view demo, here is a youtube link with time stamps on the demo's features: [a link] (https://www.youtube.com/watch?v=nbIUDpxL_mI&feature=youtu.be)
